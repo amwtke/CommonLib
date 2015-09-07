@@ -1,0 +1,5 @@
+D:\WORK_SHOP\src\cachedemo\bin\Debug\cachedemo.dll
+D:\WORK_SHOP\src\cachedemo\bin\Debug\cachedemo.pdb
+D:\WORK_SHOP\src\cachedemo\obj\Debug\cachedemo.csprojResolveAssemblyReference.cache
+D:\WORK_SHOP\src\cachedemo\obj\Debug\cachedemo.dll
+D:\WORK_SHOP\src\cachedemo\obj\Debug\cachedemo.pdb
