@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cachedemo", "cachedemo\cach
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication4", "ObjectPool\WindowsFormsApplication4\WindowsFormsApplication4.csproj", "{10311014-AD80-45E9-B9CF-4E4764CAA170}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonLibrary", "CommonLibrary\CommonLibrary.csproj", "{1FB6089C-624C-41CA-8344-332670D8B462}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,16 @@ Global
 		{10311014-AD80-45E9-B9CF-4E4764CAA170}.Release|Mixed Platforms.Build.0 = Release|x86
 		{10311014-AD80-45E9-B9CF-4E4764CAA170}.Release|x86.ActiveCfg = Release|x86
 		{10311014-AD80-45E9-B9CF-4E4764CAA170}.Release|x86.Build.0 = Release|x86
+		{1FB6089C-624C-41CA-8344-332670D8B462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB6089C-624C-41CA-8344-332670D8B462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB6089C-624C-41CA-8344-332670D8B462}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1FB6089C-624C-41CA-8344-332670D8B462}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1FB6089C-624C-41CA-8344-332670D8B462}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1FB6089C-624C-41CA-8344-332670D8B462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB6089C-624C-41CA-8344-332670D8B462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB6089C-624C-41CA-8344-332670D8B462}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1FB6089C-624C-41CA-8344-332670D8B462}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{1FB6089C-624C-41CA-8344-332670D8B462}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
