@@ -8,6 +8,7 @@ namespace CommonLibrary
 {
     public static class CommonHelper
     {
+        #region read appsettings
         public static void ReadAllSettings()
         {
             try
@@ -69,4 +70,5 @@ namespace CommonLibrary
             }
         }
     }
+        #endregion
 }
